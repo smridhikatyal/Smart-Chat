@@ -27,8 +27,12 @@ This is a UI screen of a smart assistant application named Allen, which integrat
 
 
 ![Screenshot 2025-02-24 161109](https://github.com/user-attachments/assets/8845d6fc-ae3b-4f24-8904-5987d5c4c3b0)
+
+
+
 Asking About Quantum Computing
 You open Smart Chat and ask:
+
 🎙️ "Tell me about Programming."
 
 The app, powered by ChatGPT, quickly responds with a detailed yet easy-to-understand explanation:
@@ -37,8 +41,7 @@ The app, powered by ChatGPT, quickly responds with a detailed yet easy-to-unders
 ![Screenshot 2025-02-24 165258](https://github.com/user-attachments/assets/533ea1ed-ebae-4c37-ace1-59fef4e74053)
 
 Generating an AI Image of a Pink Unicorn
-You open Smart Chat and type:
-📝 "Create an image of a pink unicorn standing on a rainbow."
+You open Smart Chat and ask: 🎙️ "Create an image of a pink unicorn standing on a rainbow."
 
 The app processes your request and uses DALL·E to generate a high-quality AI image. In just a few seconds, you see a beautifully crafted pink unicorn with a glowing mane.
 
